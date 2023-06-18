@@ -40,7 +40,7 @@ Content Cell  | Content Cell
 Для всего остального есть обычный HTML.
 ## Цитаты
 
-Цитаты оформляются как в емейлах, с помощью символа `>`.
+Цитаты оформляются как в емейлах, с помощью символа `>`.))
 
 > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
 > consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
